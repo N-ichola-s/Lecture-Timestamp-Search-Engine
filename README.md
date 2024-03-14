@@ -1,4 +1,4 @@
-WORK IN PROGRESS:
+WORK IN PROGRESS (this is my senior capstone this semester, will update as we go):
 
 Lecture Search Engine
 
